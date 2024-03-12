@@ -4,7 +4,7 @@ CSS by Jan Elizer de Joya */
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background:linear-gradient(to right,#E9765B #F2A490 #B9D4DB);
+    background:linear-gradient(to right,#E9765B ,#F2A490);
     color: #333;
     padding-top: 20px; 
 }
