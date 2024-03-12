@@ -157,4 +157,7 @@ td.ITEP207 {
         color: #000;
         background-color: #FFF;
     }
+    .image{
+        filter: grayscale(100%);
+    }
 }
